@@ -1,5 +1,5 @@
 ### BEGIN DOCKERFILE
 ######################### 
-FROM openjdk:11.0.12-slim
+FROM eclipse-temurin:11.0.17_8-jdk
 
 ENV OPENJDK_FONTS=/usr/share/fonts
